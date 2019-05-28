@@ -1,0 +1,3 @@
+ 
+ #subir o redis sem modo protegido
+ redis-server --protected-mode no
