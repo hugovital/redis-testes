@@ -6,7 +6,7 @@ public class Main {
 
 	public static void main(String[] args) throws Exception {
 		
-		String remote_ip = "13.58.64.223";
+		String remote_ip = "3.14.10.202";
 		
 		// Connecting to Redis on localhost		
 		//jedis.auth("forefather");
